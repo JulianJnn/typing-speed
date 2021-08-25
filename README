@@ -1,4 +1,4 @@
-# Typing Speed Test
+#Typing Speed Test
 
 This is a typing speed test made in Python. Once the user executes the main file, a window containing a list of words will appear.
 The timer starts once the user starts typing in the empty field, and each word is counted once the spacebar is hit.
